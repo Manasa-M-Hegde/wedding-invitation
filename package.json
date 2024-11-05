@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://SumanthBHegde.github.io/wedding-invitation",
+  "homepage": "https://manasa-m-hegde.github.io/wedding-invitation",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
